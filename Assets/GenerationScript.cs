@@ -155,7 +155,7 @@ public class GenerationScript : MonoBehaviour
         
         past.Add(current);
         // Generates new room and sets as active
-        GameObject newRoom = Instantiate(PrefabUtility.LoadPrefabContents("Assets/Prefabs/Room.prefab"));
-        newRoom.GetComponent<GenerationScript>().isNew = true;
+        //GameObject newRoom = Instantiate(PrefabUtility.LoadPrefabContents("Assets/Prefabs/Room.prefab"));
+        //newRoom.GetComponent<GenerationScript>().isNew = true;
     }
 }

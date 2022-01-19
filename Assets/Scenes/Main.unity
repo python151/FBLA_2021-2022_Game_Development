@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 7995536730365897021, guid: 0000000000000000d000000000000000, type: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.35872698, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -385,6 +385,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 32897146324927348, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 32897146848898129, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
       value: 0
@@ -425,6 +429,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1029314342999940884, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1029314343531376689, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
       value: 0
@@ -432,6 +440,10 @@ PrefabInstance:
     - target: {fileID: 1029314343531376689, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_ShapeTexture
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1029314343531376689, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1029314344681086918, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
@@ -449,6 +461,10 @@ PrefabInstance:
       propertyPath: m_ShapeTexture
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 1029314344807173970, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1224824072195008438, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
       value: 1
@@ -456,6 +472,10 @@ PrefabInstance:
     - target: {fileID: 1224824072195008438, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_ShapeTexture
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224824072195008438, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1224824072322152226, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
@@ -472,6 +492,14 @@ PrefabInstance:
     - target: {fileID: 1224824073336592597, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_ShapeTexture
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224824073336592597, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224824073868818416, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1874848420821962741, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
@@ -537,13 +565,29 @@ PrefabInstance:
       propertyPath: m_ShapeTexture
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5502852610385407783, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5502852610526707635, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5502852610526707635, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_ShapeTexture
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5502852610526707635, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5502852610993012577, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5502852611368307271, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5502852611525480516, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_DynamicOccludee
@@ -552,6 +596,10 @@ PrefabInstance:
     - target: {fileID: 5502852611525480516, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_ShapeTexture
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5502852611525480516, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6489564195392898715, guid: 7d35f170fa1bb9e41ad36116235d771f, type: 3}
       propertyPath: m_ShapeTexture

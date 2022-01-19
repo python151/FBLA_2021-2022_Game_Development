@@ -24,7 +24,7 @@ public class SpawnEnemies : MonoBehaviour
         // Spawns enemies here
         for (int i = 0; i < number_of_enemies; i++)
         {
-            Instantiate(PrefabUtility.LoadPrefabContents("Assets/Prefabs/GameMode1/Enemy.prefab"));
+            Instantiate(Resources.Load("GameMode1/Enemy") as GameObject);
         }
     }
 

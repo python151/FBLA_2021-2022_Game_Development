@@ -60,7 +60,7 @@ public class EnemyScript : MonoBehaviour
 
     public void shoot()
     {
-        GameObject bullet = Instantiate(PrefabUtility.LoadPrefabContents("Assets/Prefabs/GameMode1/Bullet.prefab"), transform.position + new Vector3(-2, 0, 0), quaternion.Euler(0, 0, 0));
+        GameObject bullet = Instantiate(Resources.Load("GameMode1/Bullet") as GameObject, transform.position + new Vector3(-2, 0, 0), quaternion.Euler(0, 0, 0));
         bullet.GetComponent<BulletScript>().movement_speed = -8;
     }
 

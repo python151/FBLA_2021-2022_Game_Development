@@ -34,7 +34,7 @@ public class PlayerScript : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Instantiate(PrefabUtility.LoadPrefabContents("Assets/Prefabs/GameMode1/Bullet.prefab"), transform.position + new Vector3(1, 0, 0), quaternion.Euler(0, 0, 0));
+            Instantiate(Resources.Load("GameMode1/Bullet") as GameObject, transform.position + new Vector3(1, 0, 0), quaternion.Euler(0, 0, 0));
         }
     }
 }
