@@ -32,3 +32,12 @@ In the future we do have plans to:<br>
   <li>Add more randomization to gameplay</li>
   <li>Design better assets for rooms and characters</li>
 </ul>
+
+# Download Instructions
+<h3> For a built version </h3>
+To download a working build of the project (from GitHub) you can simply download and unzip one of the .zip files labeled "month_day_year_FBLA_Game_build.zip", and inside of the unzipped folder you should see an executable file. <b>Running this exectuable will start the game</b>.
+<br><br>
+Checksums can be located in the "month_day_year_FBLA_Game_checksum.txt" file
+
+<h3> For a development version</h3>
+For a development version you can simply clone the repository onto your computer, and you will then have access to all the source code for the game available.
