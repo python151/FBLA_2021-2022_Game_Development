@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e94e509d-ada9-4525-9355-20ee072036ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Interaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LoadInLeaderboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ExitGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/playerDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DebugKeybinding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HideAccessPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AccessPointScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GenerationScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AccessPointInteraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpawnEnemies.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ExitParameterGameMode2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HackingCameraMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WallManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ExitParameterGameMode1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TetrisSpawnerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AddToLeaderboardButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/unity/2018.4.19f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/MaskableGraphic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeaderboardManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UserManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TetrisParentScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TestScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Interaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/SystemScripts/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/HackingCameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/AccessPointScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/HideAccessPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/UserManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GoHomeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/WallScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/AccessPointInteraction.cs" />
+        <option value="$PROJECT_DIR$/Assets/DebugKeybinding.cs" />
+        <option value="$PROJECT_DIR$/Assets/WallManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PLayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/playerDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScoreContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameModeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GenerationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExitParameterGameMode1.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnEnemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExitParameterGameMode2.cs" />
+        <option value="$PROJECT_DIR$/Assets/AddToLeaderboardButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/PromptManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/LeaderboardTile.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExitGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/LoadInLeaderboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/LeaderboardManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TetrisParentScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/TetrisSpawnerScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21BvoCsUkRmxuijMPPukzJYo8Vp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e94e509d-ada9-4525-9355-20ee072036ea" name="Default Changelist" comment="" />
+      <created>1637427497098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637427497098</updated>
+      <workItem from="1637427513763" duration="1709000" />
+      <workItem from="1637429245991" duration="1739000" />
+      <workItem from="1637431057529" duration="1794000" />
+      <workItem from="1637432882615" duration="859000" />
+      <workItem from="1637454757623" duration="1697000" />
+      <workItem from="1637456501751" duration="1756000" />
+      <workItem from="1637458841007" duration="1801000" />
+      <workItem from="1637460669504" duration="1171000" />
+      <workItem from="1637524252192" duration="653000" />
+      <workItem from="1637527426184" duration="10582000" />
+      <workItem from="1637610410695" duration="603000" />
+      <workItem from="1637620212866" duration="758000" />
+      <workItem from="1639770128550" duration="1967000" />
+      <workItem from="1639772120335" duration="1799000" />
+      <workItem from="1639793595071" duration="1224000" />
+      <workItem from="1639852074011" duration="1772000" />
+      <workItem from="1639853909449" duration="1392000" />
+      <workItem from="1639855836988" duration="1151000" />
+      <workItem from="1639857612291" duration="1312000" />
+      <workItem from="1640751705340" duration="67385000" />
+      <workItem from="1640819183776" duration="18507000" />
+      <workItem from="1640837730243" duration="1413000" />
+      <workItem from="1640883768605" duration="1579000" />
+      <workItem from="1640893734316" duration="952000" />
+      <workItem from="1640922201207" duration="6281000" />
+      <workItem from="1641067484350" duration="1356000" />
+      <workItem from="1641236367027" duration="1565000" />
+      <workItem from="1641239547669" duration="4435000" />
+      <workItem from="1641244050837" duration="7653000" />
+      <workItem from="1641251786375" duration="3392000" />
+      <workItem from="1641255357906" duration="1487000" />
+      <workItem from="1641257172527" duration="1794000" />
+      <workItem from="1641258988957" duration="2116000" />
+      <workItem from="1641261133932" duration="177725000" />
+      <workItem from="1641439073698" duration="1017000" />
+      <workItem from="1641440974965" duration="1812000" />
+      <workItem from="1641442832306" duration="1181000" />
+      <workItem from="1641501379377" duration="1480000" />
+      <workItem from="1641503334440" duration="1310000" />
+      <workItem from="1641507757894" duration="844000" />
+      <workItem from="1641509769192" duration="1601000" />
+      <workItem from="1641511635950" duration="1526000" />
+      <workItem from="1641519625637" duration="1792000" />
+      <workItem from="1641521442150" duration="943000" />
+      <workItem from="1641524012096" duration="1789000" />
+      <workItem from="1641525830012" duration="84926000" />
+      <workItem from="1641611607885" duration="1715000" />
+      <workItem from="1641613355244" duration="1480000" />
+      <workItem from="1641656779766" duration="1793000" />
+      <workItem from="1641658639294" duration="32201000" />
+      <workItem from="1641690926057" duration="1793000" />
+      <workItem from="1641692745632" duration="599000" />
+      <workItem from="1641699682608" duration="1629000" />
+      <workItem from="1641701507745" duration="1440000" />
+      <workItem from="1641747430584" duration="1803000" />
+      <workItem from="1641749259124" duration="1435000" />
+      <workItem from="1641752927739" duration="2007000" />
+      <workItem from="1641754967476" duration="1792000" />
+      <workItem from="1641756785076" duration="926000" />
+      <workItem from="1641758595907" duration="1486000" />
+      <workItem from="1641779527061" duration="1056000" />
+      <workItem from="1641864612962" duration="2028000" />
+      <workItem from="1641866672227" duration="1798000" />
+      <workItem from="1641868490942" duration="1795000" />
+      <workItem from="1641870313078" duration="945000" />
+      <workItem from="1641872562007" duration="4547000" />
+      <workItem from="1641877134842" duration="1796000" />
+      <workItem from="1641954385277" duration="1793000" />
+      <workItem from="1641956194846" duration="1798000" />
+      <workItem from="1641958035209" duration="1038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="101" key="run.anything.popup" timestamp="1641955460658">
+      <screen x="1920" y="-284" width="614" height="1048" />
+    </state>
+    <state x="1920" y="101" key="run.anything.popup/0.-1080.1920.1040/0.0.1920.1040/1920.-284.614.1048@1920.-284.614.1048" timestamp="1641955460658" />
+    <state x="1248" y="-719" width="672" height="678" key="search.everywhere.popup" timestamp="1641866917490">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1248" y="-719" width="672" height="678" key="search.everywhere.popup/0.-1080.1920.1040/0.0.1920.1040/1920.-284.614.1048@1920.-284.614.1048" timestamp="1641866917490" />
+  </component>
+</project>
