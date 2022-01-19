@@ -1,1 +1,34 @@
 # FBLA_2021-2022_Game_Development
+
+Produced By:
+Matthew Miller (@Python151) and Pranisha Shahi. <br>
+Both Sophomores at Central High School (Keller, TX)
+
+# Summary
+Our game is based around the central idea of taking older arcade games, and using new technologies to revive their legacies. In our game we tried to capture the relative simplicity in game design, while also making sure to include a good user experience, and overall produce an enjoyable game.
+<br><br>
+In gameplay a user can expect to play through multiple dynamically generated, and loaded mini-levels inspired by arcade games such as galaga, and tetris.
+
+# Software Design 
+Our game is built with the Unity Engine (using no particular template), and as such mainly uses C# as a programming language. 
+<br><br>
+Within Unity we split each major menu up into seperate scenes with scripts loading them all together, and static containers holding variables such as score, time_left, etc.
+
+We made sure to make the scenes, and overall components as modular as possible as to avoid any undue complexity that would increase development time.
+
+# Development Cycles
+We tried our best to develop our game using a psuedo-agile format; however due to the relatively short timescale, and overall game design, we ended with what seemed to act more like one continuous sprint, but what we split up into two-major sprints (not including the current):
+
+<ul>
+  <li>with the first handling <b>key gameplay elements</b> (e.g. main room, basic first game room, etc.), </li>
+  <li>and a second that incorperated <b>UI mechanics</b> (e.g. Main menu, end screen, leaderboard), </li>
+  <li>and as of now we are working to add <b>new gameplay mechanics</b> (Add a couple more game rooms, add music, etc.).</li>
+</ul>
+
+<br>
+In the future we do have plans to:<br>
+<ul>
+  <li>General Polishing of menus</li>
+  <li>Add more randomization to gameplay</li>
+  <li>Design better assets for rooms and characters</li>
+</ul>
