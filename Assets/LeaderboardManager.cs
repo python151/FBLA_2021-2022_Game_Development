@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 
 public class LeaderboardManager : MonoBehaviour
 {
-    public static string path;
+    public static string path = "";
     
     public static List<KeyValuePair<string, int>> getPlayers(string name, int score, int num)
     {

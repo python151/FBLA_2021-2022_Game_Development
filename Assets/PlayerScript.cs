@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerScript : MonoBehaviour
 {
@@ -36,5 +37,13 @@ public class PlayerScript : MonoBehaviour
         {
             Instantiate(Resources.Load("GameMode1/Bullet") as GameObject, transform.position + new Vector3(1, 0, 0), quaternion.Euler(0, 0, 0));
         }
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        ScoreContainer.score -= 500;
+        ScoreContainer.deltaScore = 0;
+
+        SceneManager.LoadScene("Main");
     }
 }

@@ -20,9 +20,9 @@ public class playerDamage : MonoBehaviour
 
     // TODO: SOUND EFFECT HERE
     
-    void OnCollisionEnter(Collision other)
+    void OnCollisionEnter2D(Collision2D other)
     {
-        ScoreContainer.score -= 100;
+        ScoreContainer.score -= 500;
         if (ScoreContainer.score < 0)
         {
             ScoreContainer.score = 0;
