@@ -15,9 +15,11 @@ public class SpawnEnemies : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
+        EnemyScript.reset();
 
         EnemyScript.enemySpeed = speed_of_enemies;
-        EnemyScript.fireRate = fire_rate;
+        EnemyScript.fireRate = fire_rate + ((TimerScript.timeInSec) * .001f);
         EnemyScript.formationFunc = EnemyScript.formationFunc1;
         EnemyScript.formationCenterpoint = new Vector3(10, 0, 0);
         

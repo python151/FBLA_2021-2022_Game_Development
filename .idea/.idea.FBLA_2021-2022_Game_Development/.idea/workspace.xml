@@ -14,7 +14,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/LoadInLeaderboard.cs" />
-        <option value="$PROJECT_DIR$/Assets/SpawnEnemies.cs" />
         <option value="$PROJECT_DIR$/Assets/EnemyScript.cs" />
         <option value="$PROJECT_DIR$/Assets/GenerationScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
@@ -23,6 +22,7 @@
         <option value="$PROJECT_DIR$/Assets/PlayerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/playerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/LeaderboardManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnEnemies.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +77,7 @@
       <updated>1642569630060</updated>
       <workItem from="1642569652791" duration="341506000" />
       <workItem from="1643167933450" duration="1908000" />
+      <workItem from="1643256940822" duration="326000" />
     </task>
     <servers />
   </component>

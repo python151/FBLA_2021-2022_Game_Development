@@ -2014,7 +2014,7 @@ MonoBehaviour:
   number_of_enemies: 20
   speed_of_enemies: -4
   combat_effectiveness: 0
-  fire_rate: 0.502
+  fire_rate: 0.501
 --- !u!4 &1950336534
 Transform:
   m_ObjectHideFlags: 0
@@ -2334,7 +2334,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.11764707, g: 0.11764707, b: 0.11764707, a: 0}
+  m_BackGroundColor: {r: 0.23529412, g: 0.23529412, b: 0.23529412, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
