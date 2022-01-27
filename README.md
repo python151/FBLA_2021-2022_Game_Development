@@ -41,3 +41,8 @@ Checksums can be located in the "month_day_year_FBLA_Game_checksum.txt" file
 
 <h3> For a development version</h3>
 For a development version you can simply clone the repository onto your computer, and you will then have access to all the source code for the game available.
+
+# External Sources and Materials
+
+We used images from: https://wallpapercave.com/penny-arcade-wallpapers,
+and a 2d template from https://docs.unity3d.com/2019.3/Documentation/Manual/ProjectTemplates.html.
