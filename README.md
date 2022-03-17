@@ -46,3 +46,10 @@ For a development version you can simply clone the repository onto your computer
 
 We used images from: https://wallpapercave.com/penny-arcade-wallpapers,
 and a 2d template from https://docs.unity3d.com/2019.3/Documentation/Manual/ProjectTemplates.html.
+
+Our assets imported assets include:
+<ul>
+  <li>Free Pixel Font - Thaleah by Tiny Worlds</li>
+  <li>Free 2D Mega Pack by Brackeys</li>
+  <li>Arcade Machines - PolyPack by Alstra Infinite</li>
+</ul>
