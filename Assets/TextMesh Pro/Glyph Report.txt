@@ -1,0 +1,12 @@
+Font: ThaleahFat  Style: Medium
+Point Size: 1070   SP/PD Ratio: 0.0%
+
+Characters included: 96/96
+Missing characters: 0
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+
+Characters excluded from packing:
+----------------------------------------
