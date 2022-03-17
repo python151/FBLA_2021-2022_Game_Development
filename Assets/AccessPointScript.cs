@@ -5,6 +5,8 @@ using UnityEngine;
 public class AccessPointScript : MonoBehaviour
 {
     private GameObject player;
+    
+    public float interactionDistance = 5f;
 
     public Interaction _interaction;
     // Start is called before the first frame update
@@ -16,7 +18,7 @@ public class AccessPointScript : MonoBehaviour
 
     void CheckDistance()
     {
-        if (Vector2.Distance(transform.position, player.transform.position) < 3)
+        if (Vector2.Distance(transform.position, player.transform.position) < interactionDistance)
         {
             if (!UserManager.canInteractWith.Contains(_interaction))
             {
