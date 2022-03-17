@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/Assets/playerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/LeaderboardManager.cs" />
         <option value="$PROJECT_DIR$/Assets/SpawnEnemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/AccessPointScript.cs" />
       </list>
     </option>
   </component>
@@ -78,6 +79,7 @@
       <workItem from="1642569652791" duration="341506000" />
       <workItem from="1643167933450" duration="1908000" />
       <workItem from="1643256940822" duration="326000" />
+      <workItem from="1647541534948" duration="690000" />
     </task>
     <servers />
   </component>
