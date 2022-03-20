@@ -67,7 +67,7 @@ public class GenerationScript : MonoBehaviour
             _id++;
             room_id = _id;
             side_for_door = UnityEngine.Random.Range(1, 5);
-            puzzleID = 1; // TODO: CHANGE THIS TO BE MORE DYNAMIC
+            puzzleID = UnityEngine.Random.value > .5 ? 1 : 3; // TODO: CHANGE THIS TO BE MORE DYNAMIC
             
             print($"Generating the {_id}(th/nd) room with room_id {room_id}");
             

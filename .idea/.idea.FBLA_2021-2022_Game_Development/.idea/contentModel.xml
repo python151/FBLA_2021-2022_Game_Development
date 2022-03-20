@@ -12,10 +12,13 @@
         <e p="AddToLeaderboardManager.cs" t="Include" />
         <e p="BulletScript.cs" t="Include" />
         <e p="DebugKeybinding.cs" t="Include" />
+        <e p="DramaticTyping.cs" t="Include" />
         <e p="EnemyScript.cs" t="Include" />
         <e p="ExitGame.cs" t="Include" />
         <e p="ExitParameterGameMode1.cs" t="Include" />
         <e p="ExitParameterGameMode2.cs" t="Include" />
+        <e p="FroggerPlayer.cs" t="Include" />
+        <e p="FroggerScript.cs" t="Include" />
         <e p="GameModeManager.cs" t="Include" />
         <e p="GenerationScript.cs" t="Include" />
         <e p="GoHomeButton.cs" t="Include" />
@@ -25,11 +28,13 @@
         <e p="LeaderboardManager.cs" t="Include" />
         <e p="LeaderboardTile.cs" t="Include" />
         <e p="LoadInLeaderboard.cs" t="Include" />
+        <e p="LogScript.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="PlayButton.cs" t="Include" />
         <e p="playerDamage.cs" t="Include" />
         <e p="PlayerScript.cs" t="Include" />
         <e p="PromptManager.cs" t="Include" />
+        <e p="RowScript.cs" t="Include" />
         <e p="ScoreContainer.cs" t="Include" />
         <e p="SpawnEnemies.cs" t="Include" />
         <e p="SystemScripts" t="Include">

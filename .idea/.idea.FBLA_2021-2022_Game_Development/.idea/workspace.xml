@@ -10,12 +10,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/RowScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DramaticTyping.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/LoadInLeaderboard.cs" />
         <option value="$PROJECT_DIR$/Assets/EnemyScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/GenerationScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
         <option value="$PROJECT_DIR$/Assets/TimerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
@@ -24,6 +27,12 @@
         <option value="$PROJECT_DIR$/Assets/LeaderboardManager.cs" />
         <option value="$PROJECT_DIR$/Assets/SpawnEnemies.cs" />
         <option value="$PROJECT_DIR$/Assets/AccessPointScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/LogScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/RowScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/FroggerPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/FroggerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/GenerationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/DramaticTyping.cs" />
       </list>
     </option>
   </component>
@@ -79,7 +88,13 @@
       <workItem from="1642569652791" duration="341506000" />
       <workItem from="1643167933450" duration="1908000" />
       <workItem from="1643256940822" duration="326000" />
-      <workItem from="1647541534948" duration="690000" />
+      <workItem from="1647541534948" duration="1256000" />
+      <workItem from="1647710089653" duration="1737000" />
+      <workItem from="1647711858952" duration="1259000" />
+      <workItem from="1647722129230" duration="1040000" />
+      <workItem from="1647723993536" duration="1153000" />
+      <workItem from="1647800173282" duration="1688000" />
+      <workItem from="1647801887773" duration="851000" />
     </task>
     <servers />
   </component>

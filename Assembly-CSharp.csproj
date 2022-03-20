@@ -83,6 +83,11 @@
      <Compile Include="Assets\SpawnEnemies.cs" />
      <Compile Include="Assets\LeaderboardTile.cs" />
      <Compile Include="Assets\UserManager.cs" />
+     <Compile Include="Assets\LogScript.cs" />
+     <Compile Include="Assets\FroggerScript.cs" />
+     <Compile Include="Assets\RowScript.cs" />
+     <Compile Include="Assets\FroggerPlayer.cs" />
+     <Compile Include="Assets\DramaticTyping.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
