@@ -9,6 +9,10 @@ using UnityEngine.SceneManagement;
 public class PlayerScript : MonoBehaviour
 {
     public float movement_speed;
+
+    public static int lives = 3;
+    public static int max_lives = 3;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -39,11 +43,15 @@ public class PlayerScript : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision other)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        ScoreContainer.score -= 500;
-        ScoreContainer.deltaScore = 0;
+        ScoreContainer.incrementScore(-300);
+        lives--;
+        LifeManager.SetHearts(lives);
 
-        SceneManager.LoadScene("Main");
+        if (lives <= 0)
+        { 
+            SceneManager.LoadScene("Main");
+        }
     }
 }

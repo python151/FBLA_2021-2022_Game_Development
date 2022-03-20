@@ -31,17 +31,11 @@ public class FroggerPlayer : MonoBehaviour
         
         // Clamping position
         transform.position = new Vector3(0, Mathf.Clamp(transform.position.y, 0, 5*2.1f));
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            Instantiate(Resources.Load("GameMode1/Bullet") as GameObject, transform.position + new Vector3(1, 0, 0), quaternion.Euler(0, 0, 0));
-        }
     }
 
-    public void OnCollisionEnter(Collision other)
+    void OnCollisionEnter2D(Collision2D col)
     {
-        //
-        //ScoreContainer.incrementScore(-300);
+        ScoreContainer.incrementScore(-600);
         print("oh no!");
     }
 }

@@ -22,17 +22,19 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
         <option value="$PROJECT_DIR$/Assets/TimerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
-        <option value="$PROJECT_DIR$/Assets/PlayerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/playerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/LeaderboardManager.cs" />
         <option value="$PROJECT_DIR$/Assets/SpawnEnemies.cs" />
         <option value="$PROJECT_DIR$/Assets/AccessPointScript.cs" />
         <option value="$PROJECT_DIR$/Assets/LogScript.cs" />
         <option value="$PROJECT_DIR$/Assets/RowScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/FroggerPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/FroggerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/GenerationScript.cs" />
         <option value="$PROJECT_DIR$/Assets/DramaticTyping.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScoreContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/FroggerPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/LifeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerScript.cs" />
       </list>
     </option>
   </component>
@@ -94,7 +96,9 @@
       <workItem from="1647722129230" duration="1040000" />
       <workItem from="1647723993536" duration="1153000" />
       <workItem from="1647800173282" duration="1688000" />
-      <workItem from="1647801887773" duration="851000" />
+      <workItem from="1647801887773" duration="2945000" />
+      <workItem from="1647804854739" duration="3769000" />
+      <workItem from="1647808663540" duration="714000" />
     </task>
     <servers />
   </component>

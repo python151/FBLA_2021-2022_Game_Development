@@ -27,6 +27,7 @@
         <e p="Interaction.cs" t="Include" />
         <e p="LeaderboardManager.cs" t="Include" />
         <e p="LeaderboardTile.cs" t="Include" />
+        <e p="LifeManager.cs" t="Include" />
         <e p="LoadInLeaderboard.cs" t="Include" />
         <e p="LogScript.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
