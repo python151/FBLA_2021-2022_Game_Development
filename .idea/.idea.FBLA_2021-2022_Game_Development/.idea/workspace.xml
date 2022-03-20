@@ -32,9 +32,9 @@
         <option value="$PROJECT_DIR$/Assets/GenerationScript.cs" />
         <option value="$PROJECT_DIR$/Assets/DramaticTyping.cs" />
         <option value="$PROJECT_DIR$/Assets/ScoreContainer.cs" />
-        <option value="$PROJECT_DIR$/Assets/FroggerPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/LifeManager.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/FroggerPlayer.cs" />
       </list>
     </option>
   </component>
@@ -98,7 +98,7 @@
       <workItem from="1647800173282" duration="1688000" />
       <workItem from="1647801887773" duration="2945000" />
       <workItem from="1647804854739" duration="3769000" />
-      <workItem from="1647808663540" duration="714000" />
+      <workItem from="1647808663540" duration="1430000" />
     </task>
     <servers />
   </component>

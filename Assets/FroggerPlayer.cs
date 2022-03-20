@@ -3,11 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.SocialPlatforms.Impl;
 
 public class FroggerPlayer : MonoBehaviour
 {
     public float movement_speed;
+
+    public int lives = 3;
     // Start is called before the first frame update
     void Start()
     {
@@ -35,7 +38,13 @@ public class FroggerPlayer : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        ScoreContainer.incrementScore(-600);
-        print("oh no!");
+        ScoreContainer.incrementScore(-250);
+        lives--;
+        LifeManager.SetHearts(lives);
+
+        if (lives <= 0)
+        {
+            SceneManager.LoadSceneAsync("Main");
+        }
     }
 }
