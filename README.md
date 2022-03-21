@@ -7,7 +7,7 @@ Both Sophomores at Central High School (Keller, TX)
 # Summary
 Our game is based around the central idea of taking older arcade games, and using new technologies to revive their legacies. In our game we tried to capture the relative simplicity in game design, while also making sure to include a good user experience, and overall produce an enjoyable game.
 <br><br>
-In gameplay a user can expect to play through multiple dynamically generated, and loaded mini-levels inspired by arcade games such as galaga, and tetris.
+In gameplay a user can expect to play through multiple dynamically generated, and loaded mini-levels inspired by arcade games such as galaga, frogger, and tetris.
 
 # Software Design 
 Our game is built with the Unity Engine (using no particular template), and as such mainly uses C# as a programming language. 
