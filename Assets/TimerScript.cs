@@ -9,7 +9,7 @@ public class TimerScript : MonoBehaviour
 {
     public static int timeInSec = 0;
 
-    public static int maxTime = 5 * 60;
+    public static int maxTime = 60;
 
     public TextMeshProUGUI _textMeshProUGUI;
     // Start is called before the first frame update
@@ -22,7 +22,7 @@ public class TimerScript : MonoBehaviour
     void addSec()
     {
         timeInSec++;
-        
+
         string seconds = String.Format("{0:00}", (maxTime - timeInSec) %60);
         // This just updates the text display using the above value for the displayed seconds
         _textMeshProUGUI.text = $"{Mathf.Floor((maxTime - timeInSec)/60)}:{seconds}";

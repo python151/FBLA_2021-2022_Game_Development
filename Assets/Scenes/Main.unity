@@ -305,6 +305,7 @@ Light:
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!1 &489872163
@@ -1032,7 +1033,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 5:00
+  m_text: 1:00
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ae3f4ed122dc8984e842bc1f2139c5d2, type: 2}
   m_sharedMaterial: {fileID: 6032887937327245575, guid: ae3f4ed122dc8984e842bc1f2139c5d2, type: 2}
@@ -1228,6 +1229,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &764980726
 Canvas:
   m_ObjectHideFlags: 0
@@ -1624,7 +1626,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 467e0e44116fb5e4caef69932aee6275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: {fileID: 0}
 --- !u!114 &1608617290
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1914,6 +1915,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 924849258}
     - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.29
       objectReference: {fileID: 0}
@@ -1926,6 +1931,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
@@ -1936,14 +1945,6 @@ PrefabInstance:
     - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3861715520460692445, guid: 6a0f09a4287b73240a14412dbef500dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
